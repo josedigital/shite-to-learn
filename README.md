@@ -23,6 +23,11 @@ http://www.dropinks.com/2016/05/gooey-effect-in-pagination-using-svg.html
 ## accessibility
 http://a11yproject.com/
 
+## js
+http://eloquentjavascript.net/
+https://github.com/rmurphey/js-assessment
+
+
 ## frontend reading
 http://fedordead.com/
 https://bardhovde.com/articles/#resources
