@@ -14,6 +14,7 @@ https://unravelingflexbox.com/
 
 ## css
 http://scally.chris-pearce.me/documentation/index.html
+http://yeticss.com/
 
 
 ## svg
@@ -26,6 +27,7 @@ http://a11yproject.com/
 ## js
 http://eloquentjavascript.net/
 https://github.com/rmurphey/js-assessment
+http://read.humanjavascript.com/ch00-foreword.html
 
 
 ## frontend reading
