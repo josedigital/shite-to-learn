@@ -14,11 +14,13 @@ https://unravelingflexbox.com/
 
 ## css
 http://scally.chris-pearce.me/documentation/index.html
+
 http://yeticss.com/
 
 
 ## svg
 https://sarasoueidan.com/blog/icon-fonts-to-svg/
+
 http://www.dropinks.com/2016/05/gooey-effect-in-pagination-using-svg.html
 
 ## accessibility
@@ -26,11 +28,15 @@ http://a11yproject.com/
 
 ## js
 http://eloquentjavascript.net/
+
 https://github.com/rmurphey/js-assessment
+
 http://read.humanjavascript.com/ch00-foreword.html
 
 
 ## frontend reading
 http://fedordead.com/
+
 https://bardhovde.com/articles/#resources
+
 https://medium.com/fed-or-dead/reflections-of-a-user-interface-developer-fbce08c31afc#.e5n93cw9e
